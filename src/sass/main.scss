@@ -1,0 +1,16 @@
+$color: rgb(0, 0, 63);
+
+body{
+    font-size: 100%;
+
+    h1{
+        font-size: 120%;
+        color: $color;
+        border: solid 1px $color;
+        padding: 20px;
+    }
+
+    h2{
+        font-size: 110%;
+    }
+}
